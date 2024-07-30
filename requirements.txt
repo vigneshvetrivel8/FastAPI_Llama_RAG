@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+sentence-transformers
+pinecone-client
+bitsandbytes
+newspaper3k==0.2.8
+pydantic
